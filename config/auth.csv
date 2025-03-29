@@ -1,0 +1,38 @@
+p, unauthorized, /swagger/*,  GET
+p, unauthorized, /register, POST
+p, unauthorized, /login, POST
+p, unauthorized, /forgot/{email}, POST
+p, unauthorized, /verify, POST
+p, unauthorized, /reset-password, PUT
+p, unauthorized, /token/{refresh}, GET
+p, unauthorized, /users/verify, POST
+p, unauthorized, /search, GET
+p, unauthorized, /google/login, GET
+p, unauthorized, /google/callback, GET
+
+p, user, /user, PUT
+p, user, /user/{id}, GET
+p, user, /user/profile, PUT
+p, user, /user/password, PUT
+
+p, admin, /user, POST
+p, admin, /users, GET
+p, admin, /user/{id}, DELETE
+p, admin, /doctor, POST
+p, doctor, /doctor/{id}, GET
+p, doctor, /doctor , PUT
+p, user, /doctors, GET
+p, admin, /doctor/{id}, DELETE
+p, user, /appointment, POST
+p, user, /appointments,  GET
+p, user, /appointment/:{id}, GET
+p, user, /appointment, PUT
+p, user, /appointment/:{id}, DELETE
+p, user, /availabilities,  GET
+p, user, /availability/:{id},   GET
+
+g, user, unauthorized
+g, doctor, user
+g, admin, doctor
+
+

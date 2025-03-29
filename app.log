@@ -1,0 +1,208 @@
+{"level":"info","ts":1743230407.0506747,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743230420.1008816,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743230746.7901976,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743231163.8881533,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743231173.833645,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743231191.224383,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743231680.7313392,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743231735.5429654,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743231739.2351794,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743231794.9990535,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743232013.4729574,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743232208.524582,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743232250.8389702,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743232389.8459969,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743232524.0046358,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743232542.62931,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743232763.5244288,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743233265.890244,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743233305.6002636,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743233355.9732144,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743234015.9544587,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743234109.5270922,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743234226.260076,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743234355.8044631,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743234471.7639832,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743234592.0790124,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743234911.8982978,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743234952.5034747,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743234994.852581,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743235025.0212793,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743236333.0960448,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743236377.7339733,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743236419.6064787,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743236594.2767,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743236603.3713112,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743236671.5331566,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743236687.1982243,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743237029.8885298,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743237041.921784,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743237107.8819237,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743237112.5750751,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743237243.8347359,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743237248.0317242,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743237273.2954745,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743237278.9670296,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743237328.7308815,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743237333.30656,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743237404.0575738,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743237410.0454001,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743237689.4467072,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743237695.723587,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743237859.4939,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743237882.335049,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743237952.3789797,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743237956.5720236,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743238034.8847547,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743238063.740611,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743238151.6844354,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743238245.9561605,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743238274.8024733,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743238301.4563727,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743238620.260776,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743238650.6806514,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743241864.3792965,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743252785.2490618,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743252785.2498245,"caller":"logger/logger.go:39","msg":"app run","error":"listen tcp 127.0.0.1:7777: bind: address already in use"}
+{"level":"info","ts":1743252807.9642267,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743252818.7331567,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743252818.733643,"caller":"logger/logger.go:39","msg":"app run","error":"listen tcp 127.0.0.1:7777: bind: address already in use"}
+{"level":"info","ts":1743252956.6455061,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743252968.5844588,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743252968.5860572,"caller":"logger/logger.go:39","msg":"app run","error":"listen tcp 127.0.0.1:7777: bind: address already in use"}
+{"level":"info","ts":1743253267.1547596,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743253298.5949183,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743253298.5956998,"caller":"logger/logger.go:39","msg":"app run","error":"listen tcp 127.0.0.1:7777: bind: address already in use"}
+{"level":"info","ts":1743253372.5108163,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743253385.9990277,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743253385.9997962,"caller":"logger/logger.go:39","msg":"app run","error":"listen tcp 127.0.0.1:7777: bind: address already in use"}
+{"level":"info","ts":1743253404.98427,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743253436.4071915,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743253436.4080498,"caller":"logger/logger.go:39","msg":"app run","error":"listen tcp 127.0.0.1:7777: bind: address already in use"}
+{"level":"info","ts":1743253456.125272,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743253513.4543319,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743253513.4550388,"caller":"logger/logger.go:39","msg":"app run","error":"listen tcp 127.0.0.1:7777: bind: address already in use"}
+{"level":"info","ts":1743253540.4380581,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743253555.0203235,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743253555.0211535,"caller":"logger/logger.go:39","msg":"app run","error":"listen tcp 127.0.0.1:7777: bind: address already in use"}
+{"level":"info","ts":1743253605.6046484,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743253704.5739923,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743254472.1131268,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743254502.5888586,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743258666.650638,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743258672.0673833,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743258729.7880743,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743258734.904036,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743258760.992677,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743258764.5670033,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743258797.2618666,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743258847.3926907,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743259085.5616338,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743259089.4356358,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743259281.9167142,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743259285.6599011,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743259371.386982,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743259375.1533422,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743259580.401184,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743259592.1827135,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743259715.5474575,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743259718.8759835,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743259741.1634357,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743259745.7900677,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743259763.5502186,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743259770.3162644,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743259811.0289733,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743259816.6705585,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743259850.4938824,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743259853.9399257,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743259890.6620703,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743259900.493039,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743259923.906984,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743259929.278702,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743259948.4181986,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743259956.3810027,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743259976.4725025,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743259980.9385056,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743260005.4983706,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743260012.1745436,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743260035.4081342,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743260039.5295477,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743260107.4769511,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743260111.3520558,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743260152.6954484,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743260249.1623812,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743260500.5272925,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743260504.5856128,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743260604.816717,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743260609.0089655,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743260623.532498,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743260663.6553292,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743260825.407426,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743261184.2655048,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743261290.4477801,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743261294.75822,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743261404.6897025,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743261408.7435842,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743261489.2804337,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743261492.7586002,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743261724.6337245,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743261729.332554,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743261840.9953556,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743261852.3434815,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743261899.581586,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743261899.5822804,"caller":"logger/logger.go:39","msg":"app run","error":"listen tcp 127.0.0.1:7777: bind: address already in use"}
+{"level":"info","ts":1743261953.642575,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743261959.2197046,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743261959.2207553,"caller":"logger/logger.go:39","msg":"app run","error":"listen tcp 127.0.0.1:7777: bind: address already in use"}
+{"level":"info","ts":1743262110.3027973,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743262150.8668494,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743262486.9683871,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743262512.2791052,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743262575.2306914,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743262583.1094706,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743262755.805892,"caller":"logger/logger.go:39","msg":"parsing time \"string\" as \"2006-01-02T15:04:05Z07:00\": cannot parse \"string\" as \"2006\""}
+{"level":"error","ts":1743262901.5410452,"caller":"logger/logger.go:39","msg":"parsing time \"\" as \"2006-01-02T15:04:05Z07:00\": cannot parse \"\" as \"2006\""}
+{"level":"info","ts":1743262964.752825,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743262969.0743408,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743262970.9650626,"caller":"logger/logger.go:39","msg":"invalid appointment time format"}
+{"level":"info","ts":1743263085.462496,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743263089.6881475,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743263091.14696,"caller":"logger/logger.go:39","msg":"invalid appointment time format"}
+{"level":"error","ts":1743263135.8532994,"caller":"logger/logger.go:39","msg":"invalid appointment time format"}
+{"level":"info","ts":1743263197.8857243,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743263202.0437586,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743263204.189932,"caller":"logger/logger.go:39","msg":"invalid appointment time format"}
+{"level":"info","ts":1743263409.592767,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743263420.2451227,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743263422.2379973,"caller":"logger/logger.go:39","msg":"invalid time format: parsing time \"14:30:00\" as \"2006-01-02T15:04:05Z\": cannot parse \"14:30:00\" as \"2006\""}
+{"level":"error","ts":1743263544.0712652,"caller":"logger/logger.go:39","msg":"ERROR: invalid input syntax for type timestamp: \"15:30:00\" (SQLSTATE 22007)"}
+{"level":"info","ts":1743263607.2261534,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743263610.8750956,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743263613.5052042,"caller":"logger/logger.go:39","msg":"ERROR: invalid input syntax for type timestamp: \"15:30:00\" (SQLSTATE 22007)"}
+{"level":"info","ts":1743263648.13256,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743263652.0956535,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743263653.5839639,"caller":"logger/logger.go:39","msg":"ERROR: invalid input syntax for type timestamp: \"15:30:00\" (SQLSTATE 22007)"}
+{"level":"info","ts":1743263678.856377,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743263684.3805048,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743263686.0807023,"caller":"logger/logger.go:39","msg":"ERROR: invalid input syntax for type timestamp: \"15:30:00\" (SQLSTATE 22007)"}
+{"level":"info","ts":1743263816.3570387,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743263820.5027955,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743263825.3649118,"caller":"logger/logger.go:39","msg":"doctor is not available at this time"}
+{"level":"info","ts":1743263937.9442658,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743263941.904842,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743263945.2501507,"caller":"logger/logger.go:39","msg":"ERROR: column \"user_id\" of relation \"appointments\" does not exist (SQLSTATE 42703)"}
+{"level":"info","ts":1743264023.3821747,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743264028.3525198,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743264037.022281,"caller":"logger/logger.go:39","msg":"ERROR: null value in column \"start_time\" of relation \"appointments\" violates not-null constraint (SQLSTATE 23502)"}
+{"level":"info","ts":1743264156.2578359,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743264161.239268,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743264165.6749496,"caller":"logger/logger.go:39","msg":"ERROR: new row for relation \"appointments\" violates check constraint \"appointments_status_check\" (SQLSTATE 23514)"}
+{"level":"info","ts":1743264305.5028574,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743264310.0490956,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743264314.3900049,"caller":"logger/logger.go:39","msg":"ERROR: invalid input syntax for type timestamp: \"15:30:00\" (SQLSTATE 22007)"}
+{"level":"info","ts":1743264428.7497895,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743264452.749659,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"error","ts":1743264455.0091567,"caller":"logger/logger.go:39","msg":"ERROR: invalid input syntax for type timestamp: \"15:30:00\" (SQLSTATE 22007)"}
+{"level":"info","ts":1743264571.9456124,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
+{"level":"info","ts":1743264575.933448,"caller":"logger/logger.go:31","msg":"Listen: ","address":"localhost:7777"}
+{"level":"info","ts":1743264929.3413353,"caller":"logger/logger.go:31","msg":"api gateway service stops"}
